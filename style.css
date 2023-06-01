@@ -1,0 +1,50 @@
+body {
+  
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    font-weight: 400;
+    font-size: 25px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+nav{
+    display: flex;
+      align-items: center;
+}
+.list {
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    list-style-type: none;}
+
+.row{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.coul{
+    color: rgb(248, 7, 7);
+}
+.btn{
+    background-color: rgb(240, 112, 8);
+    color: aliceblue;
+    border-style: solid 2cm; color: rgb(238, 186, 108);
+    border-color: transparent;
+    padding: 10px 10px;
+    width: max-content;
+    border-radius: 25px;
+    
+}
+.droit{
+    width: 50%;
+}
+
+.loko{
+    color: rgb(4, 111, 233) ;
+}
+.loko2{
+    color: orange;
+}
+h1{
+    font-size: 20px;
+}
+
